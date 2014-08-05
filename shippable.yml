@@ -16,4 +16,4 @@ after_script:
 
 notifications:
   email:
-    - exampleone@org.com    
+    - tim@shippable.com 
